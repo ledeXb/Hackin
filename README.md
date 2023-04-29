@@ -1,4 +1,4 @@
-# LEDEAR_HACKING
+# Hackin
 
 
 # Screenshot
@@ -11,7 +11,7 @@ apt update
 apt upgrade
 pkg install git
 pkg install python2
-git clone https://github.com/Ledear-Hacker/LEDEAR_HACKING
-cd LEDEAR_HACKING 
+git clone https://github.com/ledeXb/Hackin.git
+cd Hackin 
 python2 ledearhacking.py
 ```
